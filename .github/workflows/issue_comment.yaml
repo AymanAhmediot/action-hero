@@ -1,7 +1,7 @@
 name: create a comment on new isses 
 
 on:
-  isses: 
+  issues: 
     types: [opened]
 
 
